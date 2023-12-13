@@ -1,0 +1,2 @@
+2.43.00
+https://example.com/path/to/your/new_version_installer.exe
